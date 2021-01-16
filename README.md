@@ -1,6 +1,6 @@
-# backend1-week-4
+# Ruby Methods, Classes, and Blocks
 
-Create a git branch called lesson and put the following ruby programs in it.
+Create a git branch called methods-lesson and put the following ruby programs in it.
 
 (1) Write a method that returns in an array all the numbers between 1 and 100 that are divisible by 2 or 3 or 5. Then call the method in your program and print out what it returns.  Call the program divisible.rb.
 
